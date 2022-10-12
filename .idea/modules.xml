@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. Array/1. Array.iml" filepath="$PROJECT_DIR$/1. Array/1. Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Recurssion/2. Recurssion.iml" filepath="$PROJECT_DIR$/2. Recurssion/2. Recurssion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Hashing/3. Hashing.iml" filepath="$PROJECT_DIR$/3. Hashing/3. Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Searching/4. Searching.iml" filepath="$PROJECT_DIR$/4. Searching/4. Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Sorting/5. Sorting.iml" filepath="$PROJECT_DIR$/5. Sorting/5. Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Linked List/6. Linked List.iml" filepath="$PROJECT_DIR$/6. Linked List/6. Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. Stack/9. Stack.iml" filepath="$PROJECT_DIR$/9. Stack/9. Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_Structure.iml" filepath="$PROJECT_DIR$/Data_Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Partition/Partition.iml" filepath="$PROJECT_DIR$/Partition/Partition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Array/largest.iml" filepath="$PROJECT_DIR$/1. Array/largest.iml" />
+    </modules>
+  </component>
+</project>
