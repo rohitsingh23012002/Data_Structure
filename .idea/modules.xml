@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. Array/1. Array.iml" filepath="$PROJECT_DIR$/1. Array/1. Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. Queue/10. Queue.iml" filepath="$PROJECT_DIR$/10. Queue/10. Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Recurssion/2. Recurssion.iml" filepath="$PROJECT_DIR$/2. Recurssion/2. Recurssion.iml" />
       <module fileurl="file://$PROJECT_DIR$/3. Hashing/3. Hashing.iml" filepath="$PROJECT_DIR$/3. Hashing/3. Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Searching/4. Searching.iml" filepath="$PROJECT_DIR$/4. Searching/4. Searching.iml" />
@@ -11,7 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/9. Stack/9. Stack.iml" filepath="$PROJECT_DIR$/9. Stack/9. Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data_Structure.iml" filepath="$PROJECT_DIR$/Data_Structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Partition/Partition.iml" filepath="$PROJECT_DIR$/Partition/Partition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Array/largest.iml" filepath="$PROJECT_DIR$/1. Array/largest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
     </modules>
   </component>
 </project>
